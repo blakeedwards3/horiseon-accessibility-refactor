@@ -93,7 +93,7 @@ article.content h2 {
     font-size: 36px;
 }
 
-aside {
+aside.details {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -104,17 +104,17 @@ aside {
     background-color: #2589bd;
 }
 
-aside section {
+aside.details article.detail {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-aside h3 {
+aside.details article.detail {
     margin-bottom: 10px;
     text-align: center;
 }
 
-aside img {
+aside.details article.detail img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
