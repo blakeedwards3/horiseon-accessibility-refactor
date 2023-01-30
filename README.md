@@ -2,11 +2,16 @@
 
 ## Description
 
-The goal of this project was to revise the code of the Horiseon webpage to meet accessibility standards. This better optimized the site for search engines by adding semantic tags to HTML, and adding alt tags to all the images.
+The goal of this project was to revise the code of the Horiseon webpage to meet accessibility standards. This better optimized the site for search engines by...
+- adding semantic tags to HTML and correctly linking with CSS
+- adding alt tags to all the images
+- condensing/organizing CSS
+
 
 ## Website Links
 
-Deployed URL: 
+- Deployed URL: https://blakeedwards3.github.io/horiseon-accessibility-refactor/
+- GitHub Repository: https://github.com/blakeedwards3/horiseon-accessibility-refactor
 
 ## Website Screenshot
 
@@ -18,7 +23,7 @@ Deployed URL:
 
 The Horiseon website was provided by the UNCC coding bootcamp. I (Blake Edwards) made changes to the accessibility of the website.
 
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://developer.mozilla.org/en-US/docs/Glossary/Semantics
-https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
-https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+- https://www.w3schools.com/html/html5_semantic_elements.asp
+- https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+- https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+- https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
