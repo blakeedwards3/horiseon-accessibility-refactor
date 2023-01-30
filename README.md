@@ -10,7 +10,8 @@ Deployed URL:
 
 ## Website Screenshot
 
-https://github.com/blakeedwards3/horiseon-accessibility-refactor/issues/1#issue-1562922952
+![127 0 0 1_5500_index html](https://user-images.githubusercontent.com/122399995/215558199-63208d07-1c5b-4d90-911f-e363a97fe195.png)
+
 
 
 ## Credits
